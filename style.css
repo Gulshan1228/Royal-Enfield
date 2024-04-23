@@ -243,6 +243,9 @@
     background-color: rgba(0, 0, 0, 0.85);
     padding: 25px;
 }
+.container6 p:hover{
+    color: red;
+}
 
 
 /* Footer */
@@ -283,3 +286,11 @@ footer h4{
     padding-left: 10px;
 }
 
+
+
+.responsivenav{
+    display: none;
+}
+.navchackbox{
+    display: none;
+}

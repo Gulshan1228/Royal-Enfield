@@ -313,6 +313,6 @@
     }
 
     #cbox{
-        margin-top: -100px;
+        display: none;
     }
 }

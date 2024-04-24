@@ -290,6 +290,9 @@
     .bottom li h4{
         font-size: 14px;
     }
+    .footer h4{
+        font-size: 17px;
+    }
     .bottom{
         display: flex;
         justify-content: space-between;

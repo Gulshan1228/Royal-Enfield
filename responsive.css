@@ -311,4 +311,8 @@
         font-weight: bold;
         font-size: 17px;
     }
+
+    #cbox{
+        margin-top: -100px;
+    }
 }
